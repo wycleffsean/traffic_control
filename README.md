@@ -1,5 +1,9 @@
 # TrafficControl
 
+[![Build Status](https://travis-ci.org/wycleffsean/traffic_control.svg?branch=master)](https://travis-ci.org/wycleffsean/traffic_control)
+[![Coverage Status](https://img.shields.io/coveralls/wycleffsean/traffic_control.svg)](https://coveralls.io/r/wycleffsean/traffic_control)
+
+
 TODO: Write a gem description
 
 ## Installation
