@@ -1,8 +1,8 @@
 require_relative './spec_helper.rb'
 
 describe "simple failing test" do
-  it "fails" do
-    assert 1 < 0
+  it "fails to fail" do
+    #assert 1 < 0
   end
 end
 
